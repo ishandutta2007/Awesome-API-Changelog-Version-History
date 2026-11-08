@@ -9,7 +9,7 @@
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="https://www.trackawesomelist.com/ishandutta2007/Awesome-API-Changelog-Version-History/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-API-Changelog-Version-History/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Changelog-Version-History?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Changelog-Version-History/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Changelog-Version-History?style=social" alt="GitHub_Stars" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Changelog-Version-History/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,9 +60,9 @@ The table below outlines commercial changelog, release management, and product c
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source changelog utilities, Git release generators, and self-hosted feedback boards. The table is sorted descending by GitHub star count.
+Curated open-source changelog utilities, Git release generators, and self-hosted feedback boards. The table is sorted descending by GitHub Stars_Count.
 
-| 📦 Project | 🌟 Stars | 🛠️ Tech Stack | 📜 License | 📝 Description & Deployment |
+| 📦 Project | 🌟 GitHub_Stars | 🛠️ Tech Stack | 📜 License | 📝 Description & Deployment |
 | :--- | :--- | :--- | :--- | :--- |
 | [semantic-release](https://github.com/semantic-release/semantic-release) | [![Stars](https://img.shields.io/github/stars/semantic-release/semantic-release?style=social&color=white)](https://github.com/semantic-release/semantic-release/stargazers) | JavaScript / Node.js | MIT | Fully automated version management and package publishing workflow. Determines semver bump, creates Git tags, and publishes release notes based on conventional commits. |
 | [commitlint](https://github.com/conventional-changelog/commitlint) | [![Stars](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social&color=white)](https://github.com/conventional-changelog/commitlint/stargazers) | TypeScript / Node.js | MIT | Lints commit messages according to Conventional Commit guidelines to ensure high-quality commit histories required for automated changelog generation. |
@@ -106,7 +106,7 @@ Contributions are welcome! To add or update an entry:
 1. 🍴 Fork this repository.
 2. 🔍 Ensure your proposed tool fits the theme of API changelogs, release notes automation, public roadmaps, or product communication.
 3. 💵 If adding a SaaS product, include exact starting pricing tiers, free tier/trial limits, and revenue or valuation estimates.
-4. ⭐ If adding an open-source tool, ensure you include the star badge linking to the repository stargazers page.
+4. ⭐ If adding an open-source tool, ensure you include the Stars_Badge linking to the repository stargazers page.
 5. 🚀 Submit a pull request with a concise description of your changes.
 
 ---
