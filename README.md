@@ -1,37 +1,50 @@
-# Awesome API Changelog & Version History [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ishandutta2007/Awesome-API-Changelog-Version-History/)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome API Changelog &amp; Version History Banner" width="100%" />
+</p>
 
-> A curated list of awesome SaaS platforms, developer tools, and open-source GitHub projects for API changelogs, release notes automation, public roadmaps, and self-hosted feedback boards.
+# 🚀 Awesome API Changelog & Version History 📚
 
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Changelog-Version-History?style=social)](https://github.com/ishandutta2007/Awesome-API-Changelog-Version-History/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-API-Changelog-Version-History/pulls)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://www.trackawesomelist.com/ishandutta2007/Awesome-API-Changelog-Version-History/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Changelog-Version-History/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Changelog-Version-History?style=social" alt="GitHub stars" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Changelog-Version-History/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 📢 **A curated list of awesome SaaS platforms, developer tools, and open-source GitHub projects for API changelogs, release notes automation, public roadmaps, and self-hosted feedback boards.**
 
 Effective release communication keeps API consumers, developers, and stakeholders informed about breaking changes, security patches, deprecations, and feature rollouts. This directory covers hosted SaaS solutions with in-app announcement widgets, alongside self-hosted open-source software and developer-first CLI generators.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Comparison & Evaluation Guide](#comparison--evaluation-guide)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🔍 Comparison & Evaluation Guide](#-comparison--evaluation-guide)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global market for product communication, release notes, and customer feedback management sits at the intersection of Customer Feedback Software (~$2.28B market size, projected to exceed $6.95B by 2032 at ~13% CAGR) and the broader Customer Experience & Communication Management market (exceeding $25B). The sector is **highly fragmented** rather than concentrated or winner-take-all: low initial technical barriers allow dozens of bootstrapped and indie point solutions (such as focused changelog widgets and feedback boards) to thrive profitably alongside venture-backed multi-product customer engagement suites.
 
 ---
 
-## SaaS & Hosted Platforms
+## ☁️ SaaS & Hosted Platforms
 
 The table below outlines commercial changelog, release management, and product communication platforms. It is sorted descending by company scale (valuation and annual revenue estimates).
 
-| Product | Company Scale (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier / Trial Limits | Key Capabilities & Trade-offs |
+| 🏢 Product | 💼 Company Scale (Valuation / Revenue) | 🏷️ Pricing (Starting Tier) | 🎁 Free Tier / Trial Limits | ⚡ Key Capabilities & Trade-offs |
 | :--- | :--- | :--- | :--- | :--- |
 | [LaunchNotes](https://www.launchnotes.com/) | ~$65M Valuation ($16.8M funded; ~$1M ARR) | $249/month (Growth tier, annual billing, 2 team seats) | 14-day free trial (demo-provisioned; full platform access) | Enterprise-grade release communications, multi-audience messaging, and roadmap alignment. Higher starting price point. |
 | [Beamer](https://www.getbeamer.com/) | >$20M Valuation ($20M growth round; ~$10M ARR) | $59/month (Starter tier; $49/mo annual for 5,000 MAU) | Free plan forever: up to 1,000 MAUs, basic widget, Beamer branding | In-app announcement widgets, user segmentation, push notifications, and feedback inbox. Additional MAU blocks at $50/mo per 5k. |
@@ -45,11 +58,11 @@ The table below outlines commercial changelog, release management, and product c
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 Curated open-source changelog utilities, Git release generators, and self-hosted feedback boards. The table is sorted descending by GitHub star count.
 
-| Project | Stars | Tech Stack | License | Description & Deployment |
+| 📦 Project | 🌟 Stars | 🛠️ Tech Stack | 📜 License | 📝 Description & Deployment |
 | :--- | :--- | :--- | :--- | :--- |
 | [semantic-release](https://github.com/semantic-release/semantic-release) | [![Stars](https://img.shields.io/github/stars/semantic-release/semantic-release?style=social&color=white)](https://github.com/semantic-release/semantic-release/stargazers) | JavaScript / Node.js | MIT | Fully automated version management and package publishing workflow. Determines semver bump, creates Git tags, and publishes release notes based on conventional commits. |
 | [commitlint](https://github.com/conventional-changelog/commitlint) | [![Stars](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social&color=white)](https://github.com/conventional-changelog/commitlint/stargazers) | TypeScript / Node.js | MIT | Lints commit messages according to Conventional Commit guidelines to ensure high-quality commit histories required for automated changelog generation. |
@@ -68,7 +81,7 @@ Curated open-source changelog utilities, Git release generators, and self-hosted
 
 ---
 
-## Comparison & Evaluation Guide
+## 🔍 Comparison & Evaluation Guide
 
 Choosing the right changelog and version history infrastructure depends on your specific product architecture:
 
@@ -86,23 +99,42 @@ Choosing the right changelog and version history infrastructure depends on your 
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 Contributions are welcome! To add or update an entry:
 
-1. Fork this repository.
-2. Ensure your proposed tool fits the theme of API changelogs, release notes automation, public roadmaps, or product communication.
-3. If adding a SaaS product, include exact starting pricing tiers, free tier/trial limits, and revenue or valuation estimates.
-4. If adding an open-source tool, ensure you include the star badge linking to the repository stargazers page.
-5. Submit a pull request with a concise description of your changes.
+1. 🍴 Fork this repository.
+2. 🔍 Ensure your proposed tool fits the theme of API changelogs, release notes automation, public roadmaps, or product communication.
+3. 💵 If adding a SaaS product, include exact starting pricing tiers, free tier/trial limits, and revenue or valuation estimates.
+4. ⭐ If adding an open-source tool, ensure you include the star badge linking to the repository stargazers page.
+5. 🚀 Submit a pull request with a concise description of your changes.
 
 ---
 
-## Disclaimer
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-API-Changelog-Version-History&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-API-Changelog-Version-History&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting this project! If you find this curated list helpful for building transparent release notes and developer workflows:
+
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🍴 **Fork** and contribute new tools or update existing entries.
+- 📣 **Share** this collection with fellow developers, product managers, and DevRel teams.
+- ☕ If you'd like to support ongoing maintenance and research, consider buying me a coffee via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚖️ Disclaimer
 
 - This repository is a community-curated educational index and does not represent an endorsement of any commercial platform or open-source software.
 - Pricing, free tier limits, and company financial estimates are gathered from publicly available records, pricing pages, and market tracking platforms. Always confirm current rates directly on provider websites.
 
 ---
 
-**Star 🌟 this repository if you find it helpful for your developer workflow!**
+<p align="center">
+  <b>🌟 Star this repository if you find it helpful for your developer workflow! 🌟</b>
+</p>
